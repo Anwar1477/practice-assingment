@@ -38,4 +38,7 @@ section{
     
 }
 .middle-side{
+    background-image: url("/Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
