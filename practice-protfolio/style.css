@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-upper{
+        float: left;
+        width: 40%;
+        margin-left: 5%;
+        padding-left: 2%;
+}
+.half-upper img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("/Images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.gittu{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.middle-side{
+}
