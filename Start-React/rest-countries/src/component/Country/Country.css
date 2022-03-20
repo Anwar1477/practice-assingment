@@ -1,0 +1,11 @@
+.country{
+    background-color: cyan;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px seagreen;
+
+}
+.country img{
+    width: 150px;
+}
