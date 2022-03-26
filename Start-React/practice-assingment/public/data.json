@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 1000,
+      "name": "Mac Book Pro"
+    },
+    {
+      "id": 2,
+      "img": "https://images.unsplash.com/photo-1593642633279-1796119d5482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+      "price": 520,
+      "name": "Dell Ultra Notebook"
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1592434134753-a70baf7979d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 400,
+      "name": "Huawei NoteBook"
+    },
+    {
+      "id": 4,
+      "img": "https://images.unsplash.com/photo-1554246247-6993b606e8b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 503,
+      "name": "Dell NoteBook"
+    },
+    {
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+      "price": 420,
+      "name": "Acer Notebook"
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1622050756792-5b1180bbb873?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 350,
+      "name": "HP Notebook"
+    },
+    {
+      "id": 7,
+      "img": "https://images.unsplash.com/photo-1618412659753-9fcb22e8f515?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 530,
+      "name": "HP Ultra Slim Notebook"
+    },
+    {
+      "id": 8,
+      "img": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 1050,
+      "name": "Mac Book Pro"
+    },
+    {
+      "id": 9,
+      "img": "https://images.unsplash.com/photo-1593642633279-1796119d5482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+      "price": 520,
+      "name": "Dell Ultra Notebook"
+    },
+    {
+      "id": 10,
+      "img": "https://images.unsplash.com/photo-1622050756792-5b1180bbb873?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 350,
+      "name": "HP Notebook"
+    },
+    {
+      "id": 11,
+      "img": "https://images.unsplash.com/photo-1622050756792-5b1180bbb873?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 350,
+      "name": "HP Notebook"
+    },
+    {
+      "id": 12,
+      "img": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 1050,
+      "name": "Mac Book Pro"
+    }
+  ]
